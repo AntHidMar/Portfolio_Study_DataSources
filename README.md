@@ -80,10 +80,26 @@ If you use this repository, please cite the following work:
 For questions or collaboration:
 
 - Antonio J. Hidalgo-Martín — [GitHub](https://github.com/AntHidMar)
-- Email: ajhidalgom [at] gmail [dot] com
+- 📧 Email: [anthidmar@uma.es](mailto:anthidmar@uma.es)
 
 ---
 
-## 📜 License
+## 📝 License
 
-This project is released under the MIT License.
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.
+
+You are free to:
+
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+
+- **Attribution** — You must give appropriate credit.
+- **NonCommercial** — You may not use the material for commercial purposes.
+
+More details: [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
+
+
+---
